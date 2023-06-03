@@ -1,3 +1,5 @@
+> This package is **abandoned** and no longer maintained.
+
 # MVPS Muven Framework
 
 Develop rapid, robust, and powerful web applications.
